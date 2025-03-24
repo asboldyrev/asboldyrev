@@ -5,7 +5,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![](https://monitor.abold.ru/telemetry/clnzoxcy10001vy2ohi4obbi0/cm7kg4wkf0aeo14jcb8ekb0v0.gif)
 
 * 🌍  I'm based in Altai region
-* 🚀  I'm currently working on [Studio2I](http://studio2i.ru)
 * 🧠  I'm learning Docker, Vue.js and STM32
 
 <a href="https://www.github.com/asboldyrev" target="_blank" rel="noreferrer"><img
